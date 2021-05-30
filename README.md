@@ -43,7 +43,7 @@ This system contains the following functions:
     o Create date is current date.
     o The default status of new user is New.
     o You must verify the email address of the user before changing the status of new user to Active.
-- **Function 4: Booking- 10 0 points**
+- **Function 4: Booking- 100 points**
     o All users can use this function except manager role (login is required)
     o If the user has not authenticated, the system redirects to the login page.
     o Members can send a request to use the resource and waiting for the manager's approval.
