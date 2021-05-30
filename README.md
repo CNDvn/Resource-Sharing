@@ -56,8 +56,12 @@ This system contains the following functions:
     o The default status of new user is New.
 
     o You must verify the email address of the user before changing the status of new user to Active.
+<<<<<<< HEAD
 - **Function 4: Booking- 10 0 points**
 
+=======
+- **Function 4: Booking- 100 points**
+>>>>>>> 08410afc36c9cb13349b34dcd1e042956ea6401c
     o All users can use this function except manager role (login is required)
 
     o If the user has not authenticated, the system redirects to the login page.
